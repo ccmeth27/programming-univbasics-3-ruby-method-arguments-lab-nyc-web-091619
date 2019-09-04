@@ -7,6 +7,8 @@ def introduction_with_language(name, language)
 end
 introduction_with_language("Dan", "Ember.js")
 
+introduction_with_language("Josh")
+
   
 
 
